@@ -35,6 +35,6 @@ With 15 years of experience, I specialize in delivering top-tier, cross-platform
 <br/>
 - Expertise in managing complex projects from conception to deployment with outstanding results.
 
-🚀 TL;DR: 🚀
+🚀 Finally: 🚀
 <br/>
 ## Let’s collaborate to transform your ideas into successful applications!
