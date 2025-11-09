@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## My name is Nikita Titov. 
-## I am a professional multidisciplinary software development engineer with a primary focus on mobile.
+### My name is Nikita Titov. 
+### I am a professional multidisciplinary software development engineer with a primary focus on mobile.
 
 🌟 Expert iOS Developer | Swift, Objective-C, Flutter, and React Native  Specialist 🌟
 <br/>
@@ -37,4 +37,4 @@ With 15 years of experience, I specialize in delivering top-tier, cross-platform
 
 🚀 Finally: 🚀
 <br/>
-## Let’s collaborate to transform your ideas into successful applications!
+### Let’s collaborate to transform your ideas into successful applications!
