@@ -16,9 +16,9 @@ Building [Task Studio](https://tasks.titov.dev/) — a task management & time tr
 
 🌟 Expert iOS Developer | Swift, Objective-C, Flutter, and React Native  Specialist 🌟
 <br/>
-Are you looking for a skilled developer to create high-performing mobile applications?
+<br/>Are you looking for a skilled developer to create high-performing mobile applications?
 <br/>
-With 15 years of experience, I specialize in delivering top-tier, cross-platform mobile solutions.
+<br/>With 15 years of experience, I specialize in delivering top-tier, cross-platform mobile solutions.
 
 ✅ Native iOS Expertise: Swift, SwiftUI & Objective-C. ✅
 <br/>
