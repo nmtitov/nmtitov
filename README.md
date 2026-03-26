@@ -12,7 +12,7 @@ Building [Task Studio](https://tasks.titov.dev/) — a task management & time tr
 - **Bare-metal server** — Debian 13 Trixie, 4 cores, 2 GB RAM, Django + Gunicorn (9 workers), PostgreSQL, WebSocket relay (Dart). No Docker in production.
 - **Locked 60fps** — no jank, no shortcuts.
 
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
+🌿 ˙ · . · ˙ 🌿 ˙ · . · ˙ 🌿 ˙ · . · ˙ 🌿 ˙ · . · ˙ 🌿
 
 🌟 Expert iOS Developer | Swift, Objective-C, Flutter, and React Native  Specialist 🌟
 <br/>
