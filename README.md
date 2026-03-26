@@ -1,8 +1,6 @@
 ### My name is Nikita Titov. 
 ### I am a professional multidisciplinary software development engineer with a primary focus on mobile.
 
-🌟 Expert iOS Developer | Swift, Objective-C, Flutter, and React Native  Specialist 🌟
-
 Building [Task Studio](https://tasks.titov.dev/) — a task management & time tracking app. Cross-platform (iOS, Android, macOS, Windows, Linux, Web), Flutter + Django, solo development from architecture to App Store.
 
 - **E2E encryption** — AES-256-GCM, PBKDF2 100K iterations. Encryption key derived from a passcode that never leaves the device, with optional biometric unlock. Developers, admins, and analytics have zero access to private data by design.
@@ -14,6 +12,9 @@ Building [Task Studio](https://tasks.titov.dev/) — a task management & time tr
 - **Bare-metal server** — Debian 13 Trixie, 4 cores, 2 GB RAM, Django + Gunicorn (9 workers), PostgreSQL, WebSocket relay (Dart). No Docker in production.
 - **Locked 60fps** — no jank, no shortcuts.
 
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+🌟 Expert iOS Developer | Swift, Objective-C, Flutter, and React Native  Specialist 🌟
 <br/>
 Are you looking for a skilled developer to create high-performing mobile applications?
 <br/>
