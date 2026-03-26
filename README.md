@@ -9,7 +9,7 @@ Building [Task Studio](https://tasks.titov.dev/) — a task management & time tr
 - **No ORM on client** — raw SQLite3, cached prepared statements. Distinct ID types per entity (Dart extension types over String, zero runtime cost) — `TaskIdentityId` can't be passed where `TaskScheduleId` is expected, caught at compile time.
 - **Immutable data where possible** — core entities are append-only; mutations create new versions via supersede pattern, preserving full history.
 - **3 custom native plugins** — background midnight badge (headless Flutter engine), precise timer notifications, iOS Live Activities.
-- **Bare-metal server** — Debian 13 Trixie, 4 cores, 2 GB RAM, Django + Gunicorn (9 workers), PostgreSQL, WebSocket relay (Dart). No Docker in production.
+- **Bare-metal server** — Debian 13 Trixie, 4 cores, 2 GB RAM, Django + Gunicorn (9 workers), PostgreSQL, WebSocket relay (Dart). Stripe-style prefixed IDs (`usr_`, `tmr_`, `tsk_`). No Docker in production.
 - **Locked 60fps** — no jank, no shortcuts.
 
 🌿 ˙ · . · ˙ 🌿 ˙ · . · ˙ 🌿 ˙ · . · ˙ 🌿 ˙ · . · ˙ 🌿
