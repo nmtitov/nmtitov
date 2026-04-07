@@ -4,7 +4,7 @@
 Building [Task Studio](https://tasks.titov.dev/) — a task management & time tracking app. Cross-platform (iOS, Android, macOS, Windows, Linux, Web), Flutter + Django, solo development from architecture to App Store.
 
 - **E2E encryption** — AES-256-GCM, PBKDF2 100K iterations. Encryption key derived from a passcode that never leaves the device, with optional biometric unlock. Developers, admins, and analytics have zero access to private data by design.
-- **Optional analytics and crash reporting** - you are asked to choose your preference when creating a new account, and you can change it at any time from Settings → Privacy. If you do not give consent for a particular category (usage analytics or crash reports), the corresponding data is never collected, processed, or transmitted from your device.
+- **Optional analytics and crash reporting** — you are asked to choose your preference when creating a new account, and you can change it at any time from Settings → Privacy. If you do not give consent for a particular category (usage analytics or crash reports), the corresponding data is never collected, processed, or transmitted from your device.
 - **Offline-first, eventual consistency** — local SQLite as source of truth, cursor-based async sync, real-time WebSocket push.
 - **OpenAPI single source of truth** — one spec, auto-generated clients for both Flutter and Django. No hand-written API layer, no data/type conversion errors.
 - **No ORM on client** — raw SQLite3, cached prepared statements. Distinct ID types per entity (Dart extension types over String, zero runtime cost) — `TaskIdentityId` can't be passed where `TaskScheduleId` is expected, caught at compile time.
